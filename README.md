@@ -11,19 +11,21 @@ Not an exhaustive but a good starting checklist.
 - Keyboard -> delay until repeat -> shortest
 - Spotlight -> uncheck -> all but apps, calculator, conversion, system preferences
 - Touchpad -> tap to click
+- Touchpad -> sensitivity + 1
 - Finder -> remove sidebar crap
 - Dock -> pin to right
 - Dock -> auto hide
 - Dock -> remove crap
 
 ## Apps to install
+- Password manager
 - Firefox
 - Chrome
-- Whatsapp
 - TextExpander
 - iTerm
-- Spotify
 - Magnet
+- Spotify
+- Whatsapp
 
 ## Application settings
 - TextEdit -> preferences -> plain text
