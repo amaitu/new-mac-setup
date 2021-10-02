@@ -16,6 +16,8 @@ Not an exhaustive but a good starting checklist.
 - Dock -> pin to right
 - Dock -> auto hide
 - Dock -> remove crap
+- Dock and menu bar -> clock -> display seconds
+- Dock and menu bar -> clock -> 24hr clock
 
 ## Apps to install
 - Password manager
