@@ -23,7 +23,7 @@ Not an exhaustive but a good starting checklist.
 - Password manager
 - Firefox
 - Chrome
-- TextExpander
+- espanso
 - iTerm
 - Magnet
 - Spotify
@@ -32,7 +32,7 @@ Not an exhaustive but a good starting checklist.
 ## Application settings
 - TextEdit -> preferences -> plain text
 - TextEdit -> preferences -> turn of spellcheck
-- TextExpander -> preferences -> hide from dock
+- espanso -> download config
 
 ## Dev setup
 - Pyenv (or whatever is flavour of the month)
