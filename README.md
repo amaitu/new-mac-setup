@@ -9,7 +9,7 @@ Not an exhaustive but a good starting checklist.
 - Keyboard -> key repeat -> fastest
 - Keyboard -> delay until repeat -> shortest
 - Spotlight -> uncheck -> all but apps, calculator, conversion, system preferences
-- Trackpad -> tap to click
+- Trackpad -> Point & Click -> Uncheck "Look Up"
 - Trackpad -> sensitivity + 1
 - Finder -> remove sidebar crap
 - Dock -> pin to right
