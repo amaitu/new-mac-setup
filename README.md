@@ -17,6 +17,7 @@ Not an exhaustive but a good starting checklist.
 - Dock -> remove crap
 - Dock and menu bar -> clock -> display seconds
 - Dock and menu bar -> clock -> 24hr clock
+- Finder -> settings -> New Window Shows: desktop
 
 ## Apps to install
 - Password manager
