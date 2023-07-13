@@ -24,7 +24,7 @@ Not an exhaustive but a good starting checklist.
 - Firefox
 - Chrome
 - espanso
-- iTerm
+- Warp
 - Magnet
 - Spotify
 - Whatsapp
