@@ -11,25 +11,16 @@ Not an exhaustive but a good starting checklist.
 - Spotlight -> uncheck -> all but apps, calculator, conversion, system preferences
 - Trackpad -> Point & Click -> Uncheck "Look Up"
 - Trackpad -> sensitivity + 1
+- Trackpad -> gestures -> turn off all
 - Finder -> remove sidebar crap
-- Dock -> pin to right
 - Dock -> auto hide
 - Dock -> remove crap
 - Dock and menu bar -> clock -> display seconds
-- Dock and menu bar -> clock -> 24hr clock
-- Finder -> settings -> New Window Shows: desktop
-
-## Apps to install
-- Password manager
-- Firefox
-- Chrome
-- espanso
-- Warp
-- Magnet
-- Spotify
-- Whatsapp
+- Dock and menu bar -> clock -> 24hr clockr
 
 ## Application settings
+- Finder -> settings -> New Window Shows: Downloads
+- Finder -> settings -> When performing a search -> current folde
 - TextEdit -> preferences -> plain text
 - TextEdit -> preferences -> turn of spellcheck
 - espanso -> download config
