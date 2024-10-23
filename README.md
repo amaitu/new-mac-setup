@@ -22,5 +22,6 @@ Not an exhaustive but a good starting checklist.
 - Finder -> settings -> New Window Shows: Downloads
 - Finder -> settings -> When performing a search -> current folder
 - TextEdit -> preferences -> plain text
-- TextEdit -> preferences -> turn of spellcheck
+- TextEdit -> preferences -> plain text font size: 14
+- TextEdit -> preferences -> spellcheck for rich text documents only
 - espanso -> download config
