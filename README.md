@@ -20,7 +20,7 @@ Not an exhaustive but a good starting checklist.
 
 ## Application settings
 - Finder -> settings -> New Window Shows: Downloads
-- Finder -> settings -> When performing a search -> current folde
+- Finder -> settings -> When performing a search -> current folder
 - TextEdit -> preferences -> plain text
 - TextEdit -> preferences -> turn of spellcheck
 - espanso -> download config
