@@ -11,7 +11,7 @@ Not an exhaustive but a good starting checklist.
 - Spotlight -> uncheck -> all but apps, calculator, conversion, system preferences
 - Trackpad -> Point & Click -> Uncheck "Look Up"
 - Trackpad -> sensitivity + 1
-- Trackpad -> gestures -> turn off all
+- Trackpad -> gestures -> turn off all, except for 'swipe between pages'
 - Finder -> remove sidebar crap
 - Dock -> auto hide
 - Dock -> remove crap
